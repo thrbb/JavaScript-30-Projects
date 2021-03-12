@@ -1,4 +1,4 @@
-<!-- 
+
 👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 👋👋👋Hello Friend!👋👋👋👋
 👋👋👋👋👋👋👋👋👋👋👋👋👋👋
@@ -10,5 +10,3 @@ These files are meant to be 1:1 copies of what is done in the video. If you foun
 Spelling mistakes / CSS updates / other clarifications are welcome as long as they don't change what is shown in the videos. 
 
 I encourage you to blog about your implementation and add the link to this repo - that way everyone can benefit from it.
-
--->
